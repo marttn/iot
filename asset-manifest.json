@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/smart-climate/static/js/main.a2c12615.chunk.js",
+    "main.js.map": "/smart-climate/static/js/main.a2c12615.chunk.js.map",
+    "runtime-main.js": "/smart-climate/static/js/runtime-main.15338196.js",
+    "runtime-main.js.map": "/smart-climate/static/js/runtime-main.15338196.js.map",
+    "static/css/2.de424728.chunk.css": "/smart-climate/static/css/2.de424728.chunk.css",
+    "static/js/2.d44f771f.chunk.js": "/smart-climate/static/js/2.d44f771f.chunk.js",
+    "static/js/2.d44f771f.chunk.js.map": "/smart-climate/static/js/2.d44f771f.chunk.js.map",
+    "index.html": "/smart-climate/index.html",
+    "precache-manifest.45b8c7f935778ed49b4bc827ea77bbe7.js": "/smart-climate/precache-manifest.45b8c7f935778ed49b4bc827ea77bbe7.js",
+    "service-worker.js": "/smart-climate/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/smart-climate/static/css/2.de424728.chunk.css.map",
+    "static/js/2.d44f771f.chunk.js.LICENSE.txt": "/smart-climate/static/js/2.d44f771f.chunk.js.LICENSE.txt",
+    "static/media/air-conditioner.svg": "/smart-climate/static/media/air-conditioner.fae88e18.svg",
+    "static/media/github-logo.svg": "/smart-climate/static/media/github-logo.76d344f0.svg",
+    "static/media/heater.svg": "/smart-climate/static/media/heater.62a03e13.svg",
+    "static/media/humidity.svg": "/smart-climate/static/media/humidity.d900f7b8.svg",
+    "static/media/weather.svg": "/smart-climate/static/media/weather.10a1d9ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15338196.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.d44f771f.chunk.js",
+    "static/js/main.a2c12615.chunk.js"
+  ]
+}
