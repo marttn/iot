@@ -32,18 +32,7 @@
                 "aria-controls": "navbarSupportedContent",
                 "aria-expanded": "false",
                 "aria-label": "Toggle navigation"
-            }, l.a.createElement("span", {className: "navbar-toggler-icon"})), l.a.createElement("div", {
-                className: "collapse navbar-collapse",
-                id: "navbarSupportedContent"
-            }, l.a.createElement("ul", {className: "navbar-nav mr-auto"}), l.a.createElement("a", {
-                className: "text-white ",
-                href: "https://github.com/vozbrann"
-            }, l.a.createElement("img", {
-                style: {paddingBottom: "5px", height: "25px", filter: "invert(1)"},
-                className: "mr-1",
-                src: p.a,
-                alt: ""
-            }), "")))), l.a.createElement("div", {className: "container mt-3"}, l.a.createElement("div", {className: "row"}, l.a.createElement("div", {className: "col-12 d-flex mb-3 justify-content-end"}, l.a.createElement("h3", null, l.a.createElement("span", {className: "mr-5"}, "Automatic mode:"), l.a.createElement("span", {
+            },))), l.a.createElement("div", {className: "container mt-3"}, l.a.createElement("div", {className: "row"}, l.a.createElement("div", {className: "col-12 d-flex mb-3 justify-content-end"}, l.a.createElement("h3", null, l.a.createElement("span", {className: "mr-5"}, "Automatic mode:"), l.a.createElement("span", {
                 className: "btn-group btn-group-lg rounded border",
                 role: "group",
                 "aria-label": "First group"
